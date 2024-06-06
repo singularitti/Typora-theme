@@ -3,31 +3,31 @@
 }
 
 @font-face {
-	font-family: 'Computer Modern';
+	font-family: 'Palatino nova Pro';
 	font-style: normal;
 	font-weight: normal;
-	src: url('./paper/cmunrm.ttf');
+	src: url('./paper/PalatinoNovaPro-Regular.OTF');
 }
 
 @font-face {
-	font-family: 'Computer Modern';
+	font-family: 'Palatino nova Pro';
 	font-style: italic;
 	font-weight: normal;
-	src: url('./paper/cmunti.ttf');
+	src: url('./paper/PalatinoNovaPro-Italic.OTF');
 }
 
 @font-face {
-	font-family: 'Computer Modern';
+	font-family: 'Palatino nova Pro';
 	font-style: normal;
 	font-weight: bold;
-	src: url('./paper/cmunbx.ttf');
+	src: url('./paper/PalatinoNovaPro-Medium.OTF');
 }
 
 @font-face {
-	font-family: 'Computer Modern';
+	font-family: 'Palatino nova Pro';
 	font-style: italic;
 	font-weight: bold;
-	src: url('./paper/cmunbi.ttf');
+	src: url('./paper/PalatinoNovaPro-MediumIt.OTF');
 }
 
 * {
@@ -35,11 +35,11 @@
 }
 
 html, body, #write {
-	font-family: 'Computer Modern';
+	font-family: 'Palatino nova Pro', 'FZLTHProGBK';
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Computer Modern';
+	font-family: 'Palatino nova Pro', 'FZLTHProGBK';
 }
 
 h1 {
